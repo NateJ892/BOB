@@ -1,6 +1,5 @@
 @echo off
 
 :1
-Chrome.exe
+start chrome
 TIMEOUT /T 1 /NOBREAK
-goto 1
